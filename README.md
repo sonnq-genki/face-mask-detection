@@ -1,6 +1,6 @@
 # face_mask_detection
 
-A new Flutter project.
+Face mask detection with yolov5 on Flutter
 
 ## Getting Started
 
